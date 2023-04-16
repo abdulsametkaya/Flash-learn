@@ -1,4 +1,4 @@
 package com.flash.learnflash.service;
 
-public interface CustomerService {
+public interface UserService {
 }

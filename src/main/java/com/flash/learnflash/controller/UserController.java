@@ -1,4 +1,4 @@
 package com.flash.learnflash.controller;
 
-public interface CustomerController {
+public interface UserController {
 }
